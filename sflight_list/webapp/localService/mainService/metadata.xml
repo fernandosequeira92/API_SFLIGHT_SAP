@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="1.0" xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx" xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata" xmlns:sap="http://www.sap.com/Protocols/SAPData">
+    <edmx:DataServices m:DataServiceVersion="2.0">
+        <Schema Namespace="Z_SFLIGHT_SRV" xmlns="http://schemas.microsoft.com/ado/2008/09/edm" sap:schema-version="1">
+            <EntityType Name="Sflight">
+                <Key>
+                    <PropertyRef Name="Carrid"/>
+                    <PropertyRef Name="Connid"/>
+                    <PropertyRef Name="Fldate"/>
+                </Key>
+                <Property Name="Carrid" Type="Edm.String" Nullable="false" MaxLength="3" sap:label="Companhia Aérea"/>
+                <Property Name="Connid" Type="Edm.String" Nullable="false" MaxLength="4" sap:label="Conexão"/>
+                <Property Name="Fldate" Type="Edm.DateTime" Nullable="false" Precision="0" sap:display-format="Date" sap:label="Data do Voo"/>
+                <Property Name="Price" Type="Edm.Decimal" Nullable="false" Precision="15" Scale="2" sap:label="Preço"/>
+                <Property Name="Currency" Type="Edm.String" Nullable="false" MaxLength="5" sap:label="Moeda"/>
+                <Property Name="Planetype" Type="Edm.String" Nullable="false" MaxLength="10" sap:label="Tipo de Aeronave"/>
+                <Property Name="Seatsmax" Type="Edm.Int32" Nullable="false" sap:label="Assentos"/>
+                <Property Name="Seatsocc" Type="Edm.Int32" Nullable="false" sap:label="Ocupados"/>
+                <Property Name="Paymentsum" Type="Edm.Decimal" Nullable="false" Precision="15" Scale="2" sap:label="Total de Pagamentos"/>
+            </EntityType>
+            <EntityContainer Name="Z_SFLIGHT_SRV_Entities" m:IsDefaultEntityContainer="true" sap:supported-formats="atom json">
+                <EntitySet Name="SflightSet" EntityType="Z_SFLIGHT_SRV.Sflight" sap:creatable="false" sap:updatable="false" sap:deletable="false" sap:pageable="true"/>
+            </EntityContainer>
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

@@ -1,0 +1,28 @@
+{
+  "generationParameters": {
+    "generationDate": "Sat Aug 29 2026 18:37:00 GMT-0300 (Brasilia Standard Time)",
+    "generatorPlatform": "Visual Studio Code",
+    "serviceType": "File",
+    "metadataFilename": "metadata.xml",
+    "serviceUrl": "/here/goes/your/serviceurl/",
+    "appName": "sflight_list",
+    "appTitle": "Lista de Vôos",
+    "appDescription": "Lista de vôos da tabela Sflight",
+    "appNamespace": "",
+    "ui5Theme": "sap_horizon",
+    "ui5Version": "1.151.0",
+    "enableEslint": true,
+    "enableTypeScript": false,
+    "showMockDataInfo": true,
+    "generatorVersion": "1.31.1",
+    "template": "List Report Page V2",
+    "generatorName": "SAP Fiori Application Generator",
+    "entityRelatedConfig": [
+      {
+        "type": "Main Entity",
+        "value": "SflightSet"
+      }
+    ],
+    "launchText": "To launch the generated application, run the following from the generated application root folder:\n\n```\n    npm start\n```"
+  }
+}
