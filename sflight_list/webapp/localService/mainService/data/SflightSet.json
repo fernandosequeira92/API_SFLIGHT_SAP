@@ -1,0 +1,156 @@
+[
+  {
+    "Carrid": "AA",
+    "Connid": "0017",
+    "Fldate": "/Date(1788307200000)/",
+    "Price": "422.94",
+    "Currency": "USD",
+    "Planetype": "747-400",
+    "Seatsmax": 385,
+    "Seatsocc": 320,
+    "Paymentsum": "135340.80"
+  },
+  {
+    "Carrid": "LH",
+    "Connid": "0400",
+    "Fldate": "/Date(1788393600000)/",
+    "Price": "899.99",
+    "Currency": "EUR",
+    "Planetype": "A350-900",
+    "Seatsmax": 300,
+    "Seatsocc": 272,
+    "Paymentsum": "244797.28"
+  },
+  {
+    "Carrid": "AZ",
+    "Connid": "0555",
+    "Fldate": "/Date(1788480000000)/",
+    "Price": "610.50",
+    "Currency": "EUR",
+    "Planetype": "A320-200",
+    "Seatsmax": 180,
+    "Seatsocc": 165,
+    "Paymentsum": "100732.50"
+  },
+  {
+    "Carrid": "SQ",
+    "Connid": "0026",
+    "Fldate": "/Date(1788566400000)/",
+    "Price": "1299.00",
+    "Currency": "USD",
+    "Planetype": "777-300ER",
+    "Seatsmax": 264,
+    "Seatsocc": 240,
+    "Paymentsum": "311760.00"
+  },
+  {
+    "Carrid": "UA",
+    "Connid": "0941",
+    "Fldate": "/Date(1788652800000)/",
+    "Price": "510.00",
+    "Currency": "USD",
+    "Planetype": "737-800",
+    "Seatsmax": 189,
+    "Seatsocc": 151,
+    "Paymentsum": "77010.00"
+  },
+  {
+    "Carrid": "BA",
+    "Connid": "0281",
+    "Fldate": "/Date(1788739200000)/",
+    "Price": "745.00",
+    "Currency": "GBP",
+    "Planetype": "787-9",
+    "Seatsmax": 216,
+    "Seatsocc": 184,
+    "Paymentsum": "137080.00"
+  },
+  {
+    "Carrid": "AF",
+    "Connid": "0443",
+    "Fldate": "/Date(1788825600000)/",
+    "Price": "680.00",
+    "Currency": "EUR",
+    "Planetype": "A330-300",
+    "Seatsmax": 277,
+    "Seatsocc": 231,
+    "Paymentsum": "157080.00"
+  },
+  {
+    "Carrid": "EK",
+    "Connid": "0248",
+    "Fldate": "/Date(1788912000000)/",
+    "Price": "1150.00",
+    "Currency": "USD",
+    "Planetype": "A380-800",
+    "Seatsmax": 489,
+    "Seatsocc": 441,
+    "Paymentsum": "507150.00"
+  },
+  {
+    "Carrid": "DL",
+    "Connid": "0105",
+    "Fldate": "/Date(1788998400000)/",
+    "Price": "475.50",
+    "Currency": "USD",
+    "Planetype": "A321neo",
+    "Seatsmax": 194,
+    "Seatsocc": 158,
+    "Paymentsum": "75129.00"
+  },
+  {
+    "Carrid": "KL",
+    "Connid": "0705",
+    "Fldate": "/Date(1789084800000)/",
+    "Price": "720.00",
+    "Currency": "EUR",
+    "Planetype": "787-10",
+    "Seatsmax": 318,
+    "Seatsocc": 276,
+    "Paymentsum": "198720.00"
+  },
+  {
+    "Carrid": "IB",
+    "Connid": "0602",
+    "Fldate": "/Date(1789171200000)/",
+    "Price": "560.00",
+    "Currency": "EUR",
+    "Planetype": "A350-900",
+    "Seatsmax": 348,
+    "Seatsocc": 297,
+    "Paymentsum": "166320.00"
+  },
+  {
+    "Carrid": "AC",
+    "Connid": "0091",
+    "Fldate": "/Date(1789257600000)/",
+    "Price": "535.00",
+    "Currency": "CAD",
+    "Planetype": "737-MAX8",
+    "Seatsmax": 169,
+    "Seatsocc": 137,
+    "Paymentsum": "73295.00"
+  },
+  {
+    "Carrid": "QF",
+    "Connid": "0012",
+    "Fldate": "/Date(1789344000000)/",
+    "Price": "1380.00",
+    "Currency": "AUD",
+    "Planetype": "787-9",
+    "Seatsmax": 236,
+    "Seatsocc": 218,
+    "Paymentsum": "300840.00"
+  },
+  {
+    "Carrid": "LX",
+    "Connid": "0092",
+    "Fldate": "/Date(1789430400000)/",
+    "Price": "810.00",
+    "Currency": "CHF",
+    "Planetype": "A330-300",
+    "Seatsmax": 236,
+    "Seatsocc": 201,
+    "Paymentsum": "162810.00"
+  }
+]
